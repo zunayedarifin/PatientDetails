@@ -1,0 +1,63 @@
+<resources>
+    <string-array name="spinnerItems3">
+        <item>Select One</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+    </string-array>
+    <string-array name="spinnerItems8">
+        <item>Select One</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="spinnerItems35">
+        <item>Select One</item>
+        <item>Average</item>
+        <item>Below Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string-array name="spinnerItems36">
+        <item>Select One</item>
+        <item>Absent</item>
+        <item>Mild</item>
+        <item>Moderate</item>
+        <item>Severe</item>
+    </string-array>
+    <string-array name="spinnerItems37">
+        <item>Select One</item>
+        <item>Absent</item>
+        <item>Mild</item>
+        <item>Moderate</item>
+        <item>Severe</item>
+    </string-array>
+    <string-array name="spinnerItems78e">
+        <item>Select One</item>
+        <item>IA</item>
+        <item>IB</item>
+        <item>IIA</item>
+        <item>IIB</item>
+        <item>IIIA</item>
+        <item>IIIB</item>
+        <item>IVA</item>
+        <item>IVB</item>
+    </string-array>
+    <string-array name="spinnerItems71">
+        <item>Select One</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="spinnerItemsyesno">
+        <item>Select One</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
